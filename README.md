@@ -99,7 +99,4 @@ If all has gone well you'll see an initial screen like the one below.
 Dhyana is still under development. More functions and features are going to be added and we always welcome contributions to help make Dhyana better. If you would like to contribute, please contact us.
 
 ## Acknowledgment
-Dhyana was previously a reinforcement meditation application based on IPAPP. You can check out the branch priv for more detail. 
-
-We would like to thank Asma and Allan, Auckland University for providing such an excellent CS research project.
-
+Dhyana was previously a reinforcement meditation application based on IPAPP. You can check out the branch priv for more detail. Team 2 member: Gavin Weng(Full Stack), Annan Zhang(Front-end), Rechard Liu(Back-end), Isabel Zhang(Front-end), Amy Zhang(UI Design), Teddy Sun(Source maker and app Tester) We would like to thank Asma and Allan, Auckland University for providing such an excellent CS research project.
